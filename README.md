@@ -1,12 +1,82 @@
-# React + Vite
+### 🎮 Jogo de Adivinhação
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao Jogo de Adivinhação! Um jogo simples e divertido onde o jogador deve adivinhar um número secreto entre 0 e 100.
 
-Currently, two official plugins are available:
+### 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React.js (Vite)
 
-## Expanding the ESLint configuration
+JavaScript (ES6+)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+CSS Responsivo
+
+GitHub Pages (para deploy)
+
+### 📸 Demonstração
+
+
+
+### 🎯 Objetivo do Jogo
+
+O jogador deve digitar um número e clicar em "Adivinhar". O jogo indicará se acertou ou errou e contará quantas tentativas foram feitas.
+
+### 🔧 Como Executar o Projeto
+
+Clone o repositório:
+
+git clone https://github.com/tonydevpro/jogo-de-adivinhacao.git
+
+Acesse a pasta do projeto:
+
+cd jogo-de-adivinhacao
+
+Instale as dependências:
+
+npm install
+
+Execute o projeto em modo de desenvolvimento:
+
+npm run dev
+
+Abra no navegador:
+
+http://localhost:5173
+
+### 🌎 Deploy no GitHub Pages
+
+O jogo está disponível online:
+🔗 Acesse Aqui
+
+### 📌 Funcionalidades
+
+✅ Geração de números aleatórios
+✅ Contagem de tentativas
+✅ Indica se o palpite está certo ou errado
+✅ Botão para reiniciar o jogo
+✅ Interface responsiva e estilizada
+
+### 🤝 Contribuição
+
+Fique à vontade para contribuir! Basta:
+
+Fazer um fork do projeto
+
+Criar uma branch:
+
+git checkout -b minha-feature
+
+Commitar as alterações:
+
+git commit -m "Adicionando nova funcionalidade"
+
+Enviar para o repositório remoto:
+
+git push origin minha-feature
+
+Criar um Pull Request no GitHub
+
+### 📜 Licença
+
+Este projeto está licenciado sob a MIT License - sinta-se à vontade para usar e modificar! 🎉
+
+#### Desenvolvido com ❤️ por TonyDevPro 🚀
